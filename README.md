@@ -1,4 +1,4 @@
-# 🌈 100 Gbps WDM Optical Link using Lumerical
+#  100 Gbps WDM Optical Link using Lumerical
 
 This project simulates a **10-channel, 100 Gbps Wavelength Division Multiplexing (WDM) optical communication system** using **Lumerical INTERCONNECT**, and analyzes system performance using **MATLAB eye diagram analysis**.
 
